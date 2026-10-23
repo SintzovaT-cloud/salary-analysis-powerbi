@@ -29,7 +29,7 @@
 - Сравнение начислений сотрудников
 
 ## Скриншот дашборда
-![Salary Analysis Dashboard](Расчет ЗП.png)
+![Salary Analysis Dashboard](https://github.com/SintzovaT-cloud/salary-analysis-powerbi/blob/main/Расчет%20ЗП.png)
 
 ## Данные
 Используются синтетические учебные данные. Проект предназначен для демонстрации навыков анализа данных и построения отчётов.
